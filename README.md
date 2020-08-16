@@ -5,6 +5,8 @@ I picked them by what looks cool. Pretty simple.
 
 If you have any good ones to submit, make an issue. with high-res files of the image.
 
+I recommend using some kind of slideshow wallpaper if you plan to use these.
+
 I will continue to add more wallpapers and sources as I find them.
 
 **Enjoy!**
