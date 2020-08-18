@@ -3,9 +3,11 @@ My wallpapers folder. Each folder is a different source, and I have picked what 
 
 I picked them by what looks cool. Pretty simple.
 
+Note: the dark and light folders do not have any different wallpapers in them, it is just a collection of some of the wallpapers for if you want a dark background or a light background. Or you could use all of them like me.
+
 If you have any good ones to submit, make an issue. with high-res files of the image.
 
-I recommend using some kind of slideshow wallpaper if you plan to use these.
+If you plan to use these, I recommend having them in some kind of slideshow.
 
 I will continue to add more wallpapers and sources as I find them.
 
